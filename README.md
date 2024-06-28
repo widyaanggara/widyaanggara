@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=widyanggaraa.widyanggaraa" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=widyanggara.widyanggara" />
