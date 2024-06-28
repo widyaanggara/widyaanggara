@@ -1,17 +1,24 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=widyanggaraa.widyanggaraa&left_text=My%20Page%20Visitors" />
+
 <h1 align="center">
   Hi, I'm Widya Anggara👋
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=widyanggaraa&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="widyanggara" />
+<div align="center">
+  🧑🏻‍💻 Specializing in frontend development
+  
+  🌱 I'm currently learning **Tailwind, React JS**
+  
+</div>
 
-🧑🏻‍💻 Specializing in frontend development</br>
-🌱 I'm currently learning **Tailwind, React JS**
+<div align="center">
+  <a href="https://www.linkedin.com/in/widyanggara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <hr>
 
-## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/widyanggara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
