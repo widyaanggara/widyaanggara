@@ -7,8 +7,6 @@
 <div align="center">
   🧑🏻‍💻 Specializing in frontend development
   
-  🌱 I'm currently learning **Tailwind, React JS**
-  
 </div>
 
 <div align="center">
