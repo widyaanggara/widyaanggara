@@ -6,8 +6,8 @@
 
 <div align="center">
   🧑🏻‍💻 Specializing in frontend development
-  
 </div>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/widyanggara" target="_blank">
