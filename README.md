@@ -16,13 +16,7 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,php,mysql,github,vscode,figma,git" /><br>
 </div>
 
-<h2 align="center">📈 GitHub Stats 🧑🏻‍💻</h2>
-<div align="center">
-  <br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=widyaanggara&count_private=true&show_icons=true&theme=react&include_all_commits=true&border_radius=10" alt="readme stats" />
-  <br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=widyaanggara&show_icons=true&theme=dark&locale=en&layout=compact" alt="widyaanggara" />
-</div>
+
 
 <hr>
 
