@@ -9,12 +9,6 @@
 </div>
 <br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-
-
-
-
 <hr>
 
 <h3 align="center">
